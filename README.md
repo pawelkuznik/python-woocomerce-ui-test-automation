@@ -1,1 +1,1 @@
-# python-price-checker
+# woocomerce python ui test automation project
