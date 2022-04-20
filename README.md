@@ -1,7 +1,5 @@
 # woocomerce python ui test automation project
 
-## Project to make visual regression simpler in python
-
 Titles and internal titles
 ### Introduction - the project's aim
 ### Technologies
